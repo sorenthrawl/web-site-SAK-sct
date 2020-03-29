@@ -1,0 +1,23 @@
+{
+    "firstName": "Soren",
+    "lastName": "thrawl",
+    "gender": "male",
+    "age": 19,
+    "favorites": {
+        "movie": "GuardiansOfTheGalaxy",
+        "videoGame": "destiny2",
+        "sport": "lacrosse",
+        "book": "drift",
+        "color": "purple"
+    },
+    "favoriteBands": [{
+        "genre": "grunge",
+        "name": "nirvana"
+    }, {
+        "genre": "metal",
+        "name": "megadeth"
+    }, {
+        "genre": "classicRock",
+        "name": "GunsAndRoses"
+    }]
+}
