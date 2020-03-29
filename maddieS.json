@@ -1,0 +1,31 @@
+{
+    "firstName": "Maddie",
+    "lastName": "scherf",
+    "gender": "female",
+    "age": 20,
+    "favorites": {
+        "movie": "SpidermanHomecoming",
+        "videoGame": "MarioKart",
+        "sport": "lacrosse",
+        "color": "blue"
+    },
+    "favoriteBands": [{
+        "genre": "country",
+        "name": "MorganWallen"
+    }, {
+        "genre": "country",
+        "name": "OldDominion"
+    }, {
+        "genre": "classicRock",
+        "name": "GunsAndRoses"
+    },{
+        "genre": "rap",
+        "name": "PostMalone"
+    },{
+        "genre": "pop",
+        "name": "EdSheeran"
+    },{
+        "genre": "rock",
+        "name": "nicklebacl"
+    }]
+}
